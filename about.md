@@ -1,15 +1,20 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-Some information about you!
+Đây là đôi chút thông tin về chúng tôi
 
-### More Information
+### WAV Team
 
-A place to include any other types of information that you'd like to include about yourself.
+Nội dung sẽ cập nhật sau
 
-### Contact me
+### Liên hệ với chúng tôi như nào?
 
-[email@domain.com](mailto:email@domain.com)
+Bạn có thể click vào các biểu tượng bên dưới hoặc gửi email tới [windowsarenavn@gmail.com](mailto:windowsarenavn@gmail.com)
+
+### Tuyên bố về bản quyền nội dung
+
+**Chúng tôi luôn "chơi đẹp" về vấn đề này bằng việc ghi nguồn ở cuối mỗi bài viết.**
+*Nếu bạn sử dụng nội dung từ chúng tôi, bạn cũng hãy trích dẫn nguồn bài viết nhé!*
