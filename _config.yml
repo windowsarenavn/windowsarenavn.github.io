@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+# Theme
+theme: jekyll-theme-midnight
+
 # Name of your site (displayed in the header)
 name: Windows Arena Vietnam
 
